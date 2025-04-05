@@ -1,2 +1,2 @@
-# Exploring-the-Animals
+# HostingTest
 My first frontend creation
